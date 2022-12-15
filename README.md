@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Hi, I'm Piero Panariello</h3>
+  <h3 align="center">Hi, I'm Piero</h3>
 </p>
 <p align="center">
     <a href="https://ppanariello.com/">My Portfolio</a>
