@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/piero-d-panariello-a460a81b0/">LinkedIn</a>
 </p>
 
-Currently persuing a BS at the College of William and Mary with a major in Computer Science and a minor in Physics. 
+SWE @ Markel. W&M CS '23 
 
 #### Fun facts: 
 * Big fan of F1 
