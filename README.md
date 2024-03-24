@@ -14,4 +14,4 @@ SWE @ Markel. W&M CS '23
 #### Fun facts: 
 * Big fan of F1 
 * Avid golfer 
-* Used to be a windsurfing instructor
+* Former windsurfing instructor
