@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/piero-d-panariello-a460a81b0/">LinkedIn</a>
 </p>
 
-SWE @ Markel. W&M CS '23 
+SWE @ Paradyme. W&M CS '23 
 
 #### Fun facts: 
 * Big fan of F1 
