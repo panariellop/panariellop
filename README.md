@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/piero-d-panariello-a460a81b0/">LinkedIn</a>
 </p>
 
-SWE @ Paradyme. W&M CS '23 
+AI/ML Software Engineer @ CATHEXISxC4.ai. W&M CS '23 
 
 #### Fun facts: 
 * Big fan of F1 
